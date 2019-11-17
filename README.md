@@ -1,3 +1,3 @@
-<hi> HVC </hi>
+HVC
 # Hythen's Virus Cleaner!
 
